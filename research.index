@@ -12,10 +12,9 @@
             <h1>Ryo Masuyama Website</h1>
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Research</a></li>
-                    <li><a href="#">CV</a></li>
-                    <li><a href="#">Others</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="research.html">Research</a></li>
+                    <li><a href="career.html">Career</a></li>
                 </ul>
             </nav>
         </div>
@@ -23,46 +22,23 @@
 
     <div class="intro">
         <div class="container">
-            <h2>Research</h2>
+            <h2>Home</h2>
         </div>
     </div>
 
     <div class="content">
         <div class="container">
             <div class="category">
-                <h2>論文</h2>
-              <h3>Published papers</h3>
-                <p>&bull; Masuyama, R. (2022) <a href=http://www.accessecon.com/Pubs/EB/2022/Volume42/EB-22-V42-I4-P150.pdf/>Partial forward ownership and upstream quality investment.</a> <i>Economics Bulletin</i>, 42(4): 1811-1816. (査読あり, ESCI) 
-</p>
-                <p>&bull; Masuyama, R. (2024) <a href=https://www.tandfonline.com/toc/raae20/current/>Endogenous timing with upstream corporate social responsibility.</a> <i>Asia-Pacific Journal of Accounting & Economics</i>, forthcoming. (査読あり, SSCI)
-</p>
-              <h3>Working papers</h3>
-              <p>&bull; Masuyama, R. (2023) <a href=https://mpra.ub.uni-muenchen.de/118567//>Endogenous privacy and heterogeneous price sensitivity.</a>  MPRA Paper 118567, University Library of Munich, Germany. 
-</p>
-            </div>
-            <div class="category">
-                <h2>プレゼンテーション</h2>
-              <h3>学会報告</h3>
-                <p>&bull; 2023年9月, 日本経済学会秋季大会@関西大学
-</p>
-              <p>&bull; 2023年11月, The 22nd International Conference of the Japan Economic Policy Association (JEPA2023)@立命館大学</p>
-              <p>&bull; 2024年10月, 日本経済学会秋季大会＠福岡大学</p>
-              <h3>セミナー報告</h3>
-              <p>&bull; 2023年3月, 第31回若手研究者による経済学研究会＠大阪大学</p>
-              <p>&bull; 2023年7月, 第34回産業組織・競争政策研究会＠大阪大学（社会経済研究所）</p>
-              <p>&bull; 2023年10月, 六甲フォーラム＠神戸大学</p>
-              <p>&bull; 2024年3月, 第37回産業組織・競争政策研究会＠大阪大学（社会経済研究所）</p>
-            </div>
-            <div class="category">
-                <h2>獲得資金</h2>
-                <p>&bull; 次世代研究者挑戦的研究プログラムSPRING事業（旧：神戸大学博士学生フェロー）, Grant Number JPMJSP2148（2023年4月-現在）.</p>
-              <p>&bull; 博士課程進学者支援奨学金（from M&D 卓越研究者一貫支援･養成プログラム）</p>
-              <p>&bull; 小林義雄奨学寄附金</p>
-            </div>
-          <div class="category">
-                <h2>所属学会</h2>
-                <p>&bull; 日本経済学会（2023年4月-現在）</p>
-            <p>&bull; 日本経済政策学会（2023年4月-現在）</p>
+                <h2>プロフィール</h2>
+              <h3>名前</h3>
+                <p>&bull; 増山 亮 / Ryo Masuyama</p>
+              <h3>所属</h3>
+              <p>&bull; 神戸大学経済学研究科 / Graduate School of Economics, Kobe University</p>
+              <p>&bull; 博士後期課程2年</p>
+              <h3>専門分野</h3>
+              <p>&bull; 産業組織論（理論）</p>
+              <h3>メールアドレス</h3>
+              <p>&bull; ry.masuyama [at] gmail.com</p>
             </div>
         </div>
     </div>
