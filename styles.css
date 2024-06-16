@@ -1,128 +1,30 @@
-/* Reset CSS */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* Body Styles */
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f9;
-    color: #333;
-}
-
-/* Container */
-.container {
-    width: 80%;
-    margin: 0 auto;
-    max-width: 1200px;
-}
-
-/* Header Styles */
-header {
-    background-color: #6a1b9a; /* 紫色 */
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-}
-
-header h1 {
-    font-size: 2.5em;
-    margin-bottom: 10px;
-}
-
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-header nav ul li a {
-    text-decoration: none;
-    color: #fff;
-    font-size: 1.2em;
-    transition: color 0.3s;
-}
-
-header nav ul li a:hover {
-    color: #d1c4e9;
-}
-
-/* Intro Section */
-.intro {
-    padding: 60px 0;
-    background: linear-gradient(to right, #6a1b9a, #8e24aa);
-    color: #fff;
-    text-align: center;
-}
-
-.intro h2 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
-}
-
-.intro p {
-    font-size: 1.2em;
-    line-height: 1.8;
-}
-
-/* Content Section */
-.content {
-    padding: 40px 0;
-    background-color: #fff;
-}
-
-.category {
-    background-color: #f9f9ff; /* セクションの背景色 */
-    border: 1px solid #ddd; /* セクションのボーダー */
-    padding: 20px;
-    margin-bottom: 20px;
-}
-
-.content h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
-    color: #6a1b9a;
-}
-
-.content h3 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
-    color: #6a1b9a; /* 紫色 */
-}
-
-.content p {
-    font-size: 1.1em;
-    line-height: 1.8;
-    margin-bottom: 20px;
-}
-
-/* h3 Styles */
-h3 {
-    color: #6a1b9a; /* 紫色 */
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #ddd; /* ボーダーを追加してカテゴリー感を強調 */
-}
-
-/* Footer Styles */
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
-    margin-top: 0px;
-}
-
-footer p {
+    background-color: #e0f7fa;
     margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #00796b;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    color: #004d40;
+    font-size: 1.25rem;
+    margin-top: 0;
 }
